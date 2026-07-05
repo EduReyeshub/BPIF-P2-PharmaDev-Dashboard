@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python)
 ![scikit-learn](https://img.shields.io/badge/Framework-BPIF-2ecc71?style=flat)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](TU_LINK_COLAB_AQUI)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12rZ2yz0EEtweHba99BY7FxLfY8TLf76V?usp=sharing)
 
 ---
 
