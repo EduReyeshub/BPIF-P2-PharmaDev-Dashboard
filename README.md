@@ -99,14 +99,6 @@ Three cognitive biases addressed simultaneously:
 
 ---
 
-## What's next / Versión 2
-
-- Power BI interactive dashboard (PL-300 certification — Month 7)
-- Integration with Process.csv time series data from source dataset
-- Real-time Shewhart alerts via Streamlit (Project 7)
-
----
-
 ## Stack
 
 Python · pandas · matplotlib · seaborn · scipy · Google Colab
